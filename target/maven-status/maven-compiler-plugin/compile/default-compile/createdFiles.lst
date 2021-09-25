@@ -1,0 +1,4 @@
+com\poortoys\examples\HelloResource.class
+com\poortoys\RestApplicationConfig.class
+com\poortoys\FacesApplicationConfig.class
+com\poortoys\examples\HelloBean.class
